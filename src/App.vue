@@ -9,6 +9,15 @@
         <li class="nav-item">
           <router-link to="/add" class="nav-link">Agregar Explorer</router-link>
         </li>
+        <li class="nav-item">
+          <router-link to="/examples" class="nav-link">Examples</router-link>
+        </li>
+        <li class="nav-item">
+          <router-link to="/stacks" class="nav-link">Stacks Feature</router-link>
+        </li>
+        <li class="nav-item">
+          <router-link to="/addstack" class="nav-link">Agregar stack user</router-link>
+        </li>
       </div>
     </nav>
     <div class="container mt-3">
