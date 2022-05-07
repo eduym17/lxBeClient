@@ -15,6 +15,31 @@ const routes =  [
     path: "/add",
     name: "add-explorer",
     component: () => import("./components/AddExplorer")
+  },
+  {
+    path: "/examples",
+    name: "examples-details",
+    component: () => import("./components/ExamplesList")
+  },
+  {
+    path: "/example/:id",
+    name: "example-details",
+    component: () => import("./components/Example")
+  },
+  {
+    path: "/stacks",
+    name: "stacks",
+    component: () => import("./components/StacksList")
+  },
+  {
+    path: "/stack/:id",
+    name: "stack-details",
+    component: () => import("./components/Stack")
+  },
+  {
+    path: "/addstack",
+    name: "add-stack",
+    component: () => import("./components/StackAdd")
   }
 ];
 const router = createRouter({
