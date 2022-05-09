@@ -68,6 +68,7 @@ export default {
       };
       ExplorerService.create(data)
         .then(response => {
+          console.log(data)
           this.explorer.id = response.data.id;
           this.submitted = true;
         })
