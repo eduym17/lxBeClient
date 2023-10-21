@@ -65,15 +65,11 @@ npm run lint
 **Eduardo Yañez** 
 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github-lalo]
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter-lalo]
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin-lalo]
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram-lalo]
 [<img src="https://img.shields.io/badge/Mail-00C300?style=for-the-badge&logo=gmail&logoColor=white" />][mail-lalo]
 
 [github-lalo]: https://github.com/eduym17
-[twitter-lalo]: https://twitter.com/Edu_YM
 [linkedin-lalo]: https://www.linkedin.com/in/eduardoym/
-[telegram-lalo]: https://t.me/EduYM
 [mail-lalo]: mailto:eduardo_yanez@live.com.mx
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
